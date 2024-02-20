@@ -1,0 +1,15 @@
+artifact_uri: file:///home/gg8576/linux/MyFiles/github_files/cmi/sem_8/Applied%20Machine%20Learning/Applied-Machine-Learning-Assignments/Assignment%202/mlruns/0/1c81560acc8049928ee5295ccaee0d63/artifacts
+end_time: 1708510563781
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1c81560acc8049928ee5295ccaee0d63
+run_name: Logistic Regression
+run_uuid: 1c81560acc8049928ee5295ccaee0d63
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708510387158
+status: 3
+tags: []
+user_id: gg8576

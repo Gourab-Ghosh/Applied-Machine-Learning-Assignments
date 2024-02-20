@@ -1,0 +1,15 @@
+artifact_uri: file:///home/gg8576/linux/MyFiles/github_files/cmi/sem_8/Applied%20Machine%20Learning/Applied-Machine-Learning-Assignments/Assignment%202/mlruns/0/7533d3506d354ff2b6c72f086ea5c468/artifacts
+end_time: 1708510681592
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7533d3506d354ff2b6c72f086ea5c468
+run_name: Gradient Boosting
+run_uuid: 7533d3506d354ff2b6c72f086ea5c468
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708510648068
+status: 3
+tags: []
+user_id: gg8576

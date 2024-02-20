@@ -1,0 +1,15 @@
+artifact_uri: file:///home/gg8576/linux/MyFiles/github_files/cmi/sem_8/Applied%20Machine%20Learning/Applied-Machine-Learning-Assignments/Assignment%202/mlruns/0/1c9f1c5fdbe942b18bdba2257d0bfbb0/artifacts
+end_time: 1708510648034
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1c9f1c5fdbe942b18bdba2257d0bfbb0
+run_name: Random Forest
+run_uuid: 1c9f1c5fdbe942b18bdba2257d0bfbb0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708510564421
+status: 3
+tags: []
+user_id: gg8576
