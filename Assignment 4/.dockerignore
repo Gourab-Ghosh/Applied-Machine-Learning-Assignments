@@ -1,0 +1,8 @@
+*.ipynb
+__pycache__/
+.gitignore
+.coverage
+coverage.txt
+.pytest_cache/
+generate_coverage.sh
+test.py

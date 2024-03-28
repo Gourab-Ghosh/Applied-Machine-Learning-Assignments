@@ -1,0 +1,17 @@
+============================= test session starts ==============================
+platform linux -- Python 3.11.8, pytest-8.1.1, pluggy-1.4.0
+rootdir: /home/gg8576/linux/MyFiles/github_files/cmi/sem_8/Applied Machine Learning/Applied-Machine-Learning-Assignments/Assignment 4
+plugins: anyio-4.2.0, hydra-core-1.3.2, cov-4.1.0
+collected 21 items
+
+test.py .....................                                            [100%]
+
+---------- coverage: platform linux, python 3.11.8-final-0 -----------
+Name      Stmts   Miss  Cover
+-----------------------------
+test.py      39      0   100%
+-----------------------------
+TOTAL        39      0   100%
+
+
+======================== 21 passed in 74.67s (0:01:14) =========================

@@ -1,0 +1,17 @@
+#!/bin/sh
+current_branch=`git branch | grep '*' | sed 's/* //'`
+
+if [ "$current_branch" = "main" ]; then
+    echo "You are about to commit on main. I will run your tests first..."
+    cd "Assignment 4"
+    python test.py
+    if [ $? -eq 0 ]; then
+        # tests passed, proceed to prepare commit message
+        exit 0
+    else
+        # some tests failed, prevent from committing broken code on main
+        echo "Some tests failed. You are not allowed to commit broken code on main! Aborting the commit."
+        echo "Note: you can still commit broken code on feature branches"
+        exit 1
+    fi
+fi
